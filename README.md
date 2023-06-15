@@ -63,6 +63,6 @@
 
 # 🔦 声明
 
-[![License](https://img.shields.io/github/license/Cierra-Runis/desktop_modified)](https://github.com/Cierra-Runis/desktop_modified/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/Cierra-Runis/desktop_modified)](https://github.com/Cierra-Runis/desktop_modified/blob/main/LICENSE)
 
-该项目采用 `MIT` 许可协议，查看 [LICENSE](https://github.com/Cierra-Runis/desktop_modified/blob/master/LICENSE) 以获得更多信息
+该项目采用 `MIT` 许可协议，查看 [LICENSE](https://github.com/Cierra-Runis/desktop_modified/blob/main/LICENSE) 以获得更多信息
