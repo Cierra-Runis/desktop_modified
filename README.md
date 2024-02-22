@@ -3,31 +3,13 @@
   <p>『 desktop_modified - 自定义你的桌面！』</p>
 </div>
 
-`最后更新于：2023-06-15 15:12:02`
-
-[📚 简介](#-简介)
-
-[📸 示例](#-示例)
+`最后更新于：2024-02-23 00:52:45`
 
 [📦 使用方式](#-使用方式)
-
-[⏳ 进度](#-进度)
-
-[📌 注意事项](#-注意事项)
-
-[🧑‍💻 贡献者](#-贡献者)
 
 [🔦 声明](#-声明)
 
 ---
-
-# 📚 简介
-
-用以自定义 Windows 电脑，使其变得更好用
-
-# 📸 示例
-
-略
 
 # 📦 使用方式
 
@@ -46,20 +28,6 @@
 |          Weasel           |       自定义程度高的输入法       |                              -                               | [配置仓库](https://github.com/Cierra-Runis/my_rime_config) |        [github 仓库](https://github.com/rime/weasel)         |
 |         Windhawk          |      Windows 自定义插件市场      | 个人喜欢他的 [窗口拖动插件](https://github.com/ramensoftware/windhawk-mods/blob/main/mods/slick-window-arrangement.wh.cpp) |                             -                              |              [官方网站](https://windhawk.net/)               |
 |     Wallpaper Engine      |           动态桌面壁纸           |                           付费软件                           |                             -                              | [官方网站](https://www.wallpaperengine.io/zh-hans) [Steam 商城](https://store.steampowered.com/app/431960/Wallpaper_Engine/) |
-
-# ⏳ 进度
-
-持续更新中
-
-# 📌 注意事项
-
-无
-
-# 🧑‍💻 贡献者
-
-<a href="https://github.com/Cierra-Runis/desktop_modified/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Cierra-Runis/desktop_modified" />
-</a>
 
 # 🔦 声明
 
